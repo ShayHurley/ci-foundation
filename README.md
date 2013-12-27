@@ -11,7 +11,7 @@ A lightweight, fast PHP MVC framework combined with an awesome Responsive FrontE
 * [Compass](http://compass-style.org/) - Open Source CSS Authoring Framework
 
 ### Clone this repository
-    git clone https://github.com/
+    git clone https://github.com/ShayHurley/ci-foundation
 
 ****
 
